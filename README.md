@@ -35,6 +35,7 @@
 ![Claude](https://img.shields.io/badge/Claude-AI-orange?style=flat)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-AI-blueviolet?style=flat)
+![OpenCode](https://img.shields.io/badge/OpenCode-AI-green?style=flat)
 
 ---
 
