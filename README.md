@@ -13,7 +13,7 @@
 - 💻 Focused on **Frontend Web Development** (React + JavaScript) with working knowledge of backend & databases (SQL/MySQL)
 - 🧑‍🏫 Class Representative & Peer Mentor — taught Web Technologies, Networking, CSS, JavaScript, C Programming, OS & DBMS to junior students
 - 📚 Actively learning Python chapter-wise using Google Colab
-- 🤖 Regularly use AI tools (Claude, GPT, DeepSeek) to learn and build faster
+- 🤖 Regularly use AI tools (**Claude, GPT, DeepSeek, OpenCode**) to learn and build faster
 - 🌐 Open to **Frontend Developer / React Developer** internships & full-time opportunities
 
 ---
