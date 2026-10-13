@@ -79,3 +79,5 @@
 <p align="center">
   <i>Thanks for stopping by! Always open to collaborating on interesting web projects 🚀</i>
 </p>
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlokVishwakarma108&theme=github-dark&hide_border=true)
